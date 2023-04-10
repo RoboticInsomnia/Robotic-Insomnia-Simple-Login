@@ -23,5 +23,10 @@ The event loop allows functionality of the button to be used for "OK" or "Cancel
 
 
 
+### Additional Packages
+Additional packages were installed for future projects with this repo. Ideas such as creating GUI for computer vision projects will be applied so Cv2 and others were installed. Thanks!
+
+
+
 
 
