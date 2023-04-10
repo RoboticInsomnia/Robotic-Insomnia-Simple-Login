@@ -1,5 +1,7 @@
 # Robotic Insomnia Co. Member Login
 
+<img src="https://github.com/RoboticInsomnia/Robotic-Insomnia-Simple-Login/blob/main/Admin%20Screenshot.png"/>
+
 ### Overview
 Learning how to create amazing GUI using Python. For this software, I was able to create a simple gui that will allow users to enter their username within the field. Once the user clicks "OK" it will then prompt the message : "You entered: " with the username attached. This is the barebones of a simple app that will allow me to learn more about PySimpleGui.
 
